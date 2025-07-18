@@ -1,6 +1,3 @@
-# smart-expense-tracker
-That sounds like a powerful and insightful project! Here's a well-crafted GitHub project description and tech stack for your **Smart Expense Tracker**:
-
 ---
 
 ## 💸 Smart Expense Tracker
@@ -32,7 +29,7 @@ A data-driven expense tracking application designed to help users manage their f
 | **Matplotlib**    | Static visualizations (bar, line, pie charts) |
 | **Seaborn**       | Enhanced statistical plots (heatmaps, trends) |
 | **Datetime**      | Timestamping and date-based filtering         |
-| **Tkinter**       | GUI or web interface for user interaction |
+
 
 ---
 
@@ -44,5 +41,3 @@ A data-driven expense tracking application designed to help users manage their f
 - Financial behavior analysis
 
 ---
-
-Would you like help writing a README with setup instructions, sample screenshots, or a demo walkthrough?
